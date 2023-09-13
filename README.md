@@ -9,5 +9,7 @@ npm run dev
 php artisan serve
 
 Main pages -> Front-End by Kovacs Hunor
+
 Main pages -> Likes & Buy Ticket functionalities by Lavinia Tinca
+
 Admin Section -> Front-End + Back-End by Lavinia Tinca
